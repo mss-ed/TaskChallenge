@@ -1,0 +1,52 @@
+1.What is the role of AWS/Azure/GCP in Devops?
+
+AWS/Azure/GCP provides a set of flexible services designed to enable companies to more rapidly and reliably build and deliver 
+products using these services and DevOps practices. These services simplify provisioning and managing infrastructure, 
+deploying application code, automating software release processes, and monitoring your application and infrastructure performance.
+
+2.How will you approach a project that needs to implement Devops?
+
+The steps to approach a project that needs to implement Devops
+
+1) Evaluate the need to implement DevOps practice. 
+2) Break the organizational silos & encourage collaboration. 
+3) Put Customer / end-user satisfaction at the center. 
+4) Don't jump start, instead, start small and then scale up. 
+5) Automate wherever possible. 
+6) Select tools that are compatible with each other.
+7) Define performance reviews for team and an individual.
+
+3.Mention some of the core Benefits of devops.
+
+The core Benefits of Devops are as follows:
+
+Reduce the implementation time of new services from months to minutes
+Increase productivity of business and IT teams
+Save costs on maintenance and upgrades, and eliminate unnecessary capital expenditure
+Standardize processes for easy replication and faster delivery
+Improve quality, reliability and reusability of all system components
+Increase the rate of success for digitalization strategies and transformation projects
+Ensure that money invested in cloud infrastructure, analytics and data management are not wasted
+
+
+4.What are the different phases in Devops?
+
+Continuous Development 
+Continuous Testing
+Continuous Integration
+
+5.Explain the concept of branching in git.
+
+Branches are used to create another line of development.
+By default git has a master branch. usually a branch is created to work on a new feature.
+once the feature is completed, it is merged back with the master branch and we delete the feature branch.
+
+6.what is a merge conflict in git and how can it be resolved?
+In every situation where work can be parallelized, work will eventually overlap. 
+Sometimes two developers will change the same line of code in two different ways; in such a case, 
+Git can't tell which version is correct, which leads to a merge conflict.
+
+Git gives a clue to resolving conflicts in its error message. 
+It says Merge conflict in [filename1], so developer know there is a problem with that file. 
+Then it says fix conflicts and then commit the result, so if we follow directions, edit the file, then commit it, everything should work fine
+
