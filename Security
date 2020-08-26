@@ -1,0 +1,42 @@
+1.What is DDoS attack? how do you deal with it?
+
+A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic. DDoS attacks achieve effectiveness by utilizing multiple compromised computer systems as sources of attack traffic. Exploited machines can include computers and other networked resources such as IoT devices. From a high level, a DDoS attack is like a traffic jam clogging up with highway, preventing regular traffic from arriving at its desired destination.
+
+Identify the DDoS attack early: Setup certain alerting for high number of request.
+Overprovision bandwidth:It generally makes sense to have more bandwidth available to your Web server than you ever think you are likely to need.
+Call a DDoS mitigation specialist:For very large attacks,its advisable to use a specialist DDoS mitigation company. These organizations have large-scale infrastructure and use a variety of technologies, including data scrubbing, to help keep website online.
+Create a DDoS playbook:The best way to ensure that organization reacts as quickly and effectively as possible to stop a DDoS attack is to create a playbook that documents in detail every step of a pre-planned response when an attack is detected.
+
+2.What are the benefits of having policy management?
+
+Benefits of having policy management are as follows.
+
+1 – Easily update policy forms and contracts. With policy management software, it is easier than ever to easily update organization forms and staff or vendor contracts. ...
+2 – Manage Risk Across Your Organization. 
+3 – Automate The Workflow & Save Time. 
+4 – Exportable Audit-Ready Reports.
+5 – Maintain Staff Accountability.
+
+
+3.How HTTPs is different from HTTP?
+
+HTTPS is HTTP with encryption. The difference between the two protocols is that HTTPS uses TLS (SSL) to encrypt normal HTTP requests and responses. As a result, HTTPS is far more secure than HTTP.
+
+4.What TCP and UDP vulnerabilities are you familiar with?
+Session hijacking, DDoS attack,SQL injection
+
+5.Explain oAuth.
+
+OAuth is an open-standard authorization protocol or framework that provides applications the ability for “secure designated access.” 
+OAuth doesn’t share password data but instead uses authorization tokens to prove an identity between consumers and service providers. 
+
+6.What types of firewalls are there?
+
+Packet-filtering firewalls.
+Circuit-level gateways.
+Stateful inspection firewalls.
+Application-level gateways (proxy firewalls)
+Next-gen firewalls.
+Software firewalls.
+Hardware firewalls.
+Cloud firewalls.
